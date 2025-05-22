@@ -1,3 +1,3 @@
-def print_names(first, family):
-    return first + family
+def print_names(num1, num2):
+    return num1 + num2
 
